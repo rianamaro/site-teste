@@ -14,3 +14,27 @@ h6{color:aliceblue
 ul {color:aliceblue 
 
 }
+
+li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+li img{
+    width: 30px;
+    height: 30px;
+
+}
+li{
+    transition: 0.3s;
+
+}
+li:hover{
+    color:brown;
+    font-size:20px;
+
+
+}
